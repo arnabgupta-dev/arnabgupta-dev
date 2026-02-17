@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnab Gupta
 
-<!--
-**arnabgupta-dev/arnabgupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer with 3+ years of experience building scalable web applications and backend systems using Python, FastAPI, React, and AWS.
 
-Here are some ideas to get you started:
+I enjoy taking products from idea to production — designing APIs, building reliable backend services, creating responsive frontends, and deploying cloud-native solutions. Recently, I’ve been exploring AI and LLM-powered applications and how they integrate into real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work With
+
+- **Backend:** Python, FastAPI, REST APIs
+- **Frontend:** React, Next
+- **Cloud & DevOps:** AWS, Docker, Linux
+- **Databases:** SQL-based systems
+- **AI/LLM:** LangChain ecosystem & applied AI features
+
+## 🚀 Featured Project
+
+🔹 **FastAPI Project Scaffold**  
+A tool to generate production-ready FastAPI project structures with best practices built in.  
+👉 [Builders Hut](https://github.com/arnabgupta-dev/builders-hut)
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/arnabgupta-dev  
+- ✍️ Dev.to: https://dev.to/arnabgupta-dev  
+- 📝 Medium: https://medium.com/@arnabgupta-dev  
+
+---
+
+⭐ Always interested in building useful systems, learning new technologies, and solving real engineering problems.
